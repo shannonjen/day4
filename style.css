@@ -1,0 +1,36 @@
+body {
+	background-image:url('http://cdn.aarp.net/content/dam/travel/destination-images/massachusetts/marthas-vineyard/1400-marthas-vineyard-massachusetts-wg.web.jpg');
+}
+.nav li {
+	display: inline;
+}
+
+.jumbotron .container {
+    position: relative;
+    top: 100px;
+    left: 25px;
+}
+
+.nav a {
+  color: white;
+  font-size: 11px;
+  font-weight: bold;
+  padding: 14px 10px;
+  text-transform: uppercase;
+}
+
+.jumbotron {
+  background-color: gray;
+  height: 500px;
+}
+
+.jumbotron h1 {
+  color: white;
+  font-size: 48px;  
+  font-weight: bold;
+}
+
+.jumbotron p {
+  font-size: 20px;
+  color: #fff;
+}
